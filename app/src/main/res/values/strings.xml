@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpaper Switcher</string>
+
+    <!-- Main Screen -->
+    <string name="title_my_wallpapers">Meine Wallpapers</string>
+    <string name="hint_no_folders">Tippe + um loszulegen</string>
+
+    <!-- Folder Screen -->
+    <string name="hint_no_images">Tippe + um Bilder hinzuzufügen</string>
+
+    <!-- Dialog -->
+    <string name="dialog_new_folder_title">Neuer Ordner</string>
+    <string name="dialog_new_folder_subtitle">Gib deinem Ordner einen Namen</string>
+    <string name="hint_folder_name">Ordnername</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_create">Erstellen</string>
+    <string name="toast_enter_name">Bitte Namen eingeben</string>
+
+    <!-- Wallpaper -->
+    <string name="toast_wallpaper_set">✅ Hintergrundbild gesetzt!</string>
+    <string name="toast_error">Fehler: %1$s</string>
+    <string name="toast_permission_required">Berechtigung benötigt!</string>
+
+    <!-- Options -->
+    <string name="option_set_wallpaper">🖼️  Als Hintergrund setzen</string>
+    <string name="option_delete_image">🗑️  Bild löschen</string>
+    <string name="option_delete_folder">🗑️  Ordner löschen</string>
+    <string name="title_options">Optionen</string>
+
+    <!-- Image count -->
+    <string name="image_count">%1$d Bilder</string>
+    <string name="image_count_one">1 Bild</string>
+</resources>
