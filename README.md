@@ -1,27 +1,45 @@
-# Wallpaper Switcher
+# 🖼️ Wallpaper Switcher
 
-A simple Android app to organize and set wallpapers. Create folders, add images, and switch your wallpaper with a single tap.
+An Android app to organize your wallpapers into folders and switch between them easily.
 
 ## Features
 
-- Organize wallpapers in custom folders
-- Set any image as your home screen wallpaper instantly
-- Automatic rotation correction (EXIF)
-- Images are cropped to fit your screen properly
-- Long press to delete images or folders
-- Supports German and English
+- 📁 Organize wallpapers in custom folders
+- 🔄 Quick wallpaper switching
+- 🎨 Clean, modern UI
+- 💾 Persistent folder & wallpaper data
 
-## Requirements
+## Screenshots
 
-- Android 8.0 (API 26) or higher
-- Tested on Samsung Galaxy S23
+> Coming soon
 
-## Build
+## Tech Stack
 
-1. Clone the repo
-2. Open in Android Studio
-3. Run or build APK via `Build → Build APK`
+- **Language:** Kotlin
+- **Platform:** Android
+- **Build System:** Gradle (KTS)
+
+## Getting Started
+
+### Requirements
+
+- Android Studio Hedgehog or newer
+- Android SDK 26+
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/tammo2701/wallpaper-switcher.git
+   ```
+2. Open the project in Android Studio
+3. Let Gradle sync
+4. Run on a device or emulator
+
+## Download
+
+Check the [Releases](https://github.com/tammo2701/wallpaper-switcher/releases) page for the latest APK.
 
 ## License
 
-MIT
+This project is open source and available under the [MIT License](LICENSE).
