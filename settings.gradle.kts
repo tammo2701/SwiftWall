@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WallpaperSwitcher"
+rootProject.name = "SwiftWall"
 include(":app")
- 

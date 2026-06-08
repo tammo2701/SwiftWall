@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tammo2701.wallpaperswitcher"
+    namespace = "com.tammo2701.swiftwall"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tammo2701.wallpaperswitcher"
+        applicationId = "com.tammo2701.swiftwall"
         minSdk = 26
         targetSdk = 34
         versionCode = 2

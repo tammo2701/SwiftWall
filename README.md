@@ -1,4 +1,4 @@
-# Wallpaper Switcher
+# SwiftWall
 
 A simple Android app to organize and set wallpapers. Create folders, add images, and switch your wallpaper with a single tap.
 
